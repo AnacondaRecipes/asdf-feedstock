@@ -66,7 +66,11 @@ about:
   dev_url: http://github.com/asdf-format/asdf
 
 extra:
+  anaconda-services:
+    ref: https://anaconda.zendesk.com/agent/tickets/42309
+    reason: Carl Zeiss ask
   recipe-maintainers:
+    - ianaobi
     - mwcraig
     - bsipocz
     - eslavich
